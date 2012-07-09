@@ -1,0 +1,9 @@
+# .gitignore for ASP.NET MVC3 Application
+
+obj
+bin
+*.sln
+*.suo
+*.csproj
+*.user
+*.cache
